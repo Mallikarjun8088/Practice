@@ -1,0 +1,6 @@
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\bin\Release\Switch_case.exe.config
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\bin\Release\Switch_case.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\bin\Release\Switch_case.pdb
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\obj\Release\Switch_case.csproj.CoreCompileInputs.cache
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\obj\Release\Switch_case.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\obj\Release\Switch_case.pdb

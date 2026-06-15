@@ -1,0 +1,7 @@
+D:\NEW_LEARNINGS\C_sharp_Tasks\Math_Things\Math_Things\obj\Debug\Math_Things.csproj.AssemblyReference.cache
+D:\NEW_LEARNINGS\C_sharp_Tasks\Math_Things\Math_Things\obj\Debug\Math_Things.csproj.CoreCompileInputs.cache
+D:\NEW_LEARNINGS\C_sharp_Tasks\Math_Things\Math_Things\bin\Debug\Math_Things.exe.config
+D:\NEW_LEARNINGS\C_sharp_Tasks\Math_Things\Math_Things\bin\Debug\Math_Things.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Math_Things\Math_Things\bin\Debug\Math_Things.pdb
+D:\NEW_LEARNINGS\C_sharp_Tasks\Math_Things\Math_Things\obj\Debug\Math_Things.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Math_Things\Math_Things\obj\Debug\Math_Things.pdb
