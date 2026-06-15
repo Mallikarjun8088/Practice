@@ -1,0 +1,7 @@
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.AssemblyReference.cache
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Switch_case\Switch_case\obj\Debug\Switch_case.pdb

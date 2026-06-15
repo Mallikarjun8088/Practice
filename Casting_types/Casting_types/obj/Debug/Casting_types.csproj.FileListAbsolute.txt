@@ -1,0 +1,7 @@
+D:\NEW_LEARNINGS\C_sharp_Tasks\Casting_types\Casting_types\bin\Debug\Casting_types.exe.config
+D:\NEW_LEARNINGS\C_sharp_Tasks\Casting_types\Casting_types\bin\Debug\Casting_types.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Casting_types\Casting_types\bin\Debug\Casting_types.pdb
+D:\NEW_LEARNINGS\C_sharp_Tasks\Casting_types\Casting_types\obj\Debug\Casting_types.csproj.AssemblyReference.cache
+D:\NEW_LEARNINGS\C_sharp_Tasks\Casting_types\Casting_types\obj\Debug\Casting_types.csproj.CoreCompileInputs.cache
+D:\NEW_LEARNINGS\C_sharp_Tasks\Casting_types\Casting_types\obj\Debug\Casting_types.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Casting_types\Casting_types\obj\Debug\Casting_types.pdb

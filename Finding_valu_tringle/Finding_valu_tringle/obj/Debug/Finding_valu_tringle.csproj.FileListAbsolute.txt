@@ -1,0 +1,6 @@
+D:\NEW_LEARNINGS\C_sharp_Tasks\Finding_valu_tringle\Finding_valu_tringle\obj\Debug\Finding_valu_tringle.csproj.CoreCompileInputs.cache
+D:\NEW_LEARNINGS\C_sharp_Tasks\Finding_valu_tringle\Finding_valu_tringle\bin\Debug\Finding_valu_tringle.exe.config
+D:\NEW_LEARNINGS\C_sharp_Tasks\Finding_valu_tringle\Finding_valu_tringle\bin\Debug\Finding_valu_tringle.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Finding_valu_tringle\Finding_valu_tringle\bin\Debug\Finding_valu_tringle.pdb
+D:\NEW_LEARNINGS\C_sharp_Tasks\Finding_valu_tringle\Finding_valu_tringle\obj\Debug\Finding_valu_tringle.exe
+D:\NEW_LEARNINGS\C_sharp_Tasks\Finding_valu_tringle\Finding_valu_tringle\obj\Debug\Finding_valu_tringle.pdb
