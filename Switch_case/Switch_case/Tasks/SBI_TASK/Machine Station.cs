@@ -12,7 +12,7 @@ namespace Switch_case.Tasks.SBI_TASK
         {
             Vision_Station vision_status = new Vision_Station();
             Pick_Station pickUp_Satuts = new Pick_Station();
-             Place_Station placing_status = new Place_Station();
+            Place_Station placing_status = new Place_Station();
 
             vision_status.Capture_Image = "Complited";
             vision_status.Inspect_Status = "Complited";
